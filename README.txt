@@ -1,0 +1,3 @@
+This is a file seeker made in Ruby, it searches all the files recursively in folders given a path and will output all the images (ending in JPG or jpg) and output to the console, this will be for the second version to upload to Flickr and the third version to upload to Picasa.
+
+Hopefully you guys will like it, may or not be a copy of others I doubt it since its my try to learn and use Ruby and some other APIs.
